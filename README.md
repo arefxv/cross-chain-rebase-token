@@ -6,7 +6,7 @@ RebaseToken is an ERC20-based token with a rebase mechanism that adjusts token b
 
 ## Features
 
-* **Interest Rate Adjustment**: Token balances increase based on a user-specific interest rate.
+* **Interest Rate Adjustment**: Token balances increase based on a user-specific interest rate
 
 * **Mint and Burn**: Only authorized addresses can mint and burn tokens.
 
